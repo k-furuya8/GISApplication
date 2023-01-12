@@ -1,0 +1,9 @@
+.map {
+    z-index: 0;
+    height: 300px;
+    text-align: left;
+  }
+
+  .ol-overlaycontainer-stopevent > .ol-scale-line ~ .ol-scale-line {
+    bottom: 36px;
+  }

@@ -1,0 +1,3 @@
+cd C:\Users\81806\Documents\work\GIS_APP\gis_app1
+
+yarn start
